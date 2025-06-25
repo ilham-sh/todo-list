@@ -2,7 +2,8 @@ Rencana Besok
 - Bangun Pagi
 - Matkul jam 8
   # MAtkul English
-- Matkul jam 10
+- Mata Kuliah jam 9
   # Matkul Aljabar
 - Kerja
+ # Kelompok
 - Belajar Kelompok
